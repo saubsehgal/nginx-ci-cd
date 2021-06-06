@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart describing the nginx flask app
+name: nginx-ci-cd
+version: 0.0.1
